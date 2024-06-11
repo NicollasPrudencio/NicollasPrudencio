@@ -27,11 +27,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/nic37"></a>
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=nic37&show_icons=true&theme=dracula&inclusde_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=NicollasPrudencio&show_icons=true&theme=dracula&inclusde_all_commits=true&count_private=true"
   />
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nic37&layout=compact&langs_count=7&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicollasPrudencio&layout=compact&langs_count=7&theme=dracula"
   />
 </div>
 
