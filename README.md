@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Oi, me chamo Nicollas.
 ### Bem vindo ao meu perfil GitHub 👋
-##### Sou desenvolvedor Engenheiro, Full Stack Java e especialista em Infraestrutura de TI com foco em Cloud e DevSecOps. Atuo como especialista de computação em nuvem com foco na automação de processos com a cultura DevOps.
+##### Sou desenvolvedor, engenheiro, Full Stack Java e especialista em Infraestrutura de TI com foco em Cloud e DevSecOps. Atuo como engenheiro DevSecOps, especialista em computação em nuvem.
 
 
 <head>
